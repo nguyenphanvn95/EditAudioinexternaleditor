@@ -1,4 +1,4 @@
-# 🎧 Edit Audios in External Editor
+# 🎧 Edit Audios in External Editor QT6
 
 ## 📌 Giới thiệu
 
